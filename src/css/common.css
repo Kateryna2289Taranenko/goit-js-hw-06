@@ -25,11 +25,12 @@ button {
 .gallery {
   display: flex;
   gap: 20px;
+  align-items: center;
 }
 .gallery-item {
   list-style: none;
 }
 .gallery-img {
-  width: 700px;
-  height: 460px;
+  width: 600px;
+  height: 360px;
 }
